@@ -7,3 +7,10 @@ git commit -m "all files addes"
 
 git -status 
 
+
+niazmd
+Niaz@12345
+niaz999@hotmail.com (Zain.act123 Password for hotmail)
+
+
+
