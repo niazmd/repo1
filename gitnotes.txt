@@ -1,0 +1,9 @@
+git -status
+
+git add *.* or git add .
+
+git commit -m "all files addes"
+
+
+git -status 
+
