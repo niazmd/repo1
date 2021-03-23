@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 40C7-9546
+
+ Directory of D:\MyProjects
+
+03/23/2021  11:24 AM    <DIR>          .
+03/23/2021  11:24 AM    <DIR>          ..
+03/23/2021  11:24 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  501,520,355,328 bytes free
